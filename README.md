@@ -1,2 +1,6 @@
 # hello-world
-i dont even know wth repository is
+
+hai
+
+i dont even know wth repository is,
+i just wanna learn code :)
